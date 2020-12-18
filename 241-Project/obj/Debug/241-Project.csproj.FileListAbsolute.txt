@@ -1,0 +1,14 @@
+C:\Users\ha_aa\source\repos\241-Project\241-Project\obj\Debug\241-Project.csprojAssemblyReference.cache
+C:\Users\ha_aa\source\repos\241-Project\241-Project\obj\Debug\_241_Project.Form1.resources
+C:\Users\ha_aa\source\repos\241-Project\241-Project\obj\Debug\_241_Project.mainForm.resources
+C:\Users\ha_aa\source\repos\241-Project\241-Project\obj\Debug\_241_Project.Properties.Resources.resources
+C:\Users\ha_aa\source\repos\241-Project\241-Project\obj\Debug\_241_Project.Register.resources
+C:\Users\ha_aa\source\repos\241-Project\241-Project\obj\Debug\241-Project.csproj.GenerateResource.cache
+C:\Users\ha_aa\source\repos\241-Project\241-Project\obj\Debug\241-Project.csproj.CoreCompileInputs.cache
+C:\Users\ha_aa\source\repos\241-Project\241-Project\bin\Debug\241-Project.exe.config
+C:\Users\ha_aa\source\repos\241-Project\241-Project\bin\Debug\241-Project.exe
+C:\Users\ha_aa\source\repos\241-Project\241-Project\bin\Debug\241-Project.pdb
+C:\Users\ha_aa\source\repos\241-Project\241-Project\obj\Debug\241-Project.exe
+C:\Users\ha_aa\source\repos\241-Project\241-Project\obj\Debug\241-Project.pdb
+C:\Users\ha_aa\source\repos\241-Project\241-Project\bin\Debug\dbtest.mdf
+C:\Users\ha_aa\source\repos\241-Project\241-Project\bin\Debug\dbtest_log.ldf
